@@ -1,0 +1,7 @@
+java -jar C:\Users\Akien\Desktop\测试练习笔记\自动化\selenium-server-standalone-3.141.59.jar
+
+小
+水润多效保湿面霜	16995	90
+
+大
+胶原蛋白果味饮料	50627	24
