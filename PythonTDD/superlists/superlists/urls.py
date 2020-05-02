@@ -14,7 +14,7 @@ Including another URLconfgfunction: from django.urls import include, path
 """
 from django.conf.urls import url
 import sys
-sys.path.append("C:\\Users\\Akien\\Desktop\\测试练习笔记\\自动化\\PythonTDD\\superlists")
+sys.path.append("C:\\Users\\Akien\\Desktop\\测试练习笔记\\自动化\\PythonTDD")
 from lists import views
 
 urlpatterns = [
